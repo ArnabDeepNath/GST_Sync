@@ -1,0 +1,13 @@
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-java-1.0.0-beta04-0 C:\Users\nicus\.gradle\caches\transforms-3\030050698e823dd15d31a0752d975151\transformed\jetified-window-java-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-annotation-experimental-1.1.0-1 C:\Users\nicus\.gradle\caches\transforms-3\6e6e5ee91eedaf1b61ce3d8318c9517b\transformed\jetified-annotation-experimental-1.1.0\res
+com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-2 C:\Users\nicus\.gradle\caches\transforms-3\76742a50d4f37e688e710896a17689e7\transformed\core-1.6.0\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-1.0.0-beta04-3 C:\Users\nicus\.gradle\caches\transforms-3\cea3c18c9daea78f712da1769bdb0eaa\transformed\jetified-window-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-main-4 C:\Users\nicus\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\src\main\res
+com.mr.flutter.plugin.filepicker.file_picker-release-5 C:\Users\nicus\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\src\release\res
+com.mr.flutter.plugin.filepicker.file_picker-pngs-6 C:\Users\nicus\Desktop\GST APP V2\gspappv2\build\file_picker\generated\res\pngs\release
+com.mr.flutter.plugin.filepicker.file_picker-resValues-7 C:\Users\nicus\Desktop\GST APP V2\gspappv2\build\file_picker\generated\res\resValues\release
+com.mr.flutter.plugin.filepicker.file_picker-rs-8 C:\Users\nicus\Desktop\GST APP V2\gspappv2\build\file_picker\generated\res\rs\release
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-9 C:\Users\nicus\Desktop\GST APP V2\gspappv2\build\file_picker\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-10 C:\Users\nicus\Desktop\GST APP V2\gspappv2\build\file_picker\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.mr.flutter.plugin.filepicker.file_picker-merged_res-11 C:\Users\nicus\Desktop\GST APP V2\gspappv2\build\file_picker\intermediates\merged_res\release
+com.mr.flutter.plugin.filepicker.file_picker-packaged_res-12 C:\Users\nicus\Desktop\GST APP V2\gspappv2\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release

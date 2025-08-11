@@ -1,0 +1,1 @@
+ C:\\Users\\nicus\\Desktop\\GST\ APP\ V2\\gspappv2\\.dart_tool\\flutter_build\\77be24a2c99261bb6a3534eda22078db\\native_assets.yaml: 

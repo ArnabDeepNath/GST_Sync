@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-0 C:\Users\nicus\.gradle\caches\transforms-3\030050698e823dd15d31a0752d975151\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.3.0-1 C:\Users\nicus\.gradle\caches\transforms-3\036ab4c04ad24a927b59b2a6e1b7d5d3\transformed\jetified-play-services-basement-18.3.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-2 C:\Users\nicus\.gradle\caches\transforms-3\41cada2851c4e54bddde4183ec873f42\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-3 C:\Users\nicus\.gradle\caches\transforms-3\6e6e5ee91eedaf1b61ce3d8318c9517b\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-4 C:\Users\nicus\.gradle\caches\transforms-3\76742a50d4f37e688e710896a17689e7\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-5 C:\Users\nicus\.gradle\caches\transforms-3\cea3c18c9daea78f712da1769bdb0eaa\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.4.3-6 C:\Users\nicus\.gradle\caches\transforms-3\ef8394a107db3599277edf3d44ba5888\transformed\jetified-firebase-common-20.4.3\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 C:\Users\nicus\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.17.5\android\src\main\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-8 C:\Users\nicus\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.17.5\android\src\release\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 C:\Users\nicus\Desktop\GST APP V2\gspappv2\build\cloud_firestore\generated\res\pngs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 C:\Users\nicus\Desktop\GST APP V2\gspappv2\build\cloud_firestore\generated\res\resValues\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 C:\Users\nicus\Desktop\GST APP V2\gspappv2\build\cloud_firestore\generated\res\rs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-12 C:\Users\nicus\Desktop\GST APP V2\gspappv2\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-13 C:\Users\nicus\Desktop\GST APP V2\gspappv2\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 C:\Users\nicus\Desktop\GST APP V2\gspappv2\build\cloud_firestore\intermediates\merged_res\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 C:\Users\nicus\Desktop\GST APP V2\gspappv2\build\firebase_core\intermediates\packaged_res\release
